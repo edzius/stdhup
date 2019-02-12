@@ -1,0 +1,4 @@
+*.swp
+*.o
+luahup.so
+runhup
